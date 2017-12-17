@@ -1,8 +1,8 @@
 # com.example.membershiphistory
 
-![Screenshot](./Screen1.png)
-![Screenshot](./Screen2.png)
-![Screenshot](./Screen3.png)
+![Screenshot](./images/Screen1.png)
+![Screenshot](./images/Screen2.png)
+![Screenshot](./images/Screen3.png)
 
 ## What is Memebership history?
 
