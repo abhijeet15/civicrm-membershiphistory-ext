@@ -21,9 +21,9 @@ The aim of this extension is to extend the CiviCRM membership component so that 
 The membership period is also connected to a contribution record if a payment is taken for this membership or renewal.
 
 ## Dependency:
-PHP 5.6
-MYSQL 5+
-Drupal 7.0
+PHP 5.6, 
+MYSQL 5+, 
+Drupal 7.0, 
 CiviCRM 4.7.27
 
 ## How to install Membership history extension?
